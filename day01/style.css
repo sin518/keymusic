@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url('./day01/img/background.jpg') bottom center;
+  background: url('/day01/img/background.jpg')  center;
   background-size: cover;
 }
 
